@@ -9,7 +9,6 @@ A browser-based 3D robotics simulator and video renderer for a mobile manipulato
 ## Demo
 
 - **Video Demo:** [Watch Studio Walkthrough & Simulation Video](https://screenapp.io/app/share/0bl7uPCgj9cpOwOySTuDyukf)
-- **Live App:** [Open VIKRAM-SLAM Studio](https://ais-pre-5nkqosr675zhsaba4hoej5-641254847787.asia-east1.run.app)
 - **Exported Video Output:** `vikram_slam_complete_demo.mp4` (`1280x720`, `30 FPS`, `30.0 s` / `900` total frames — 4s intro, 22s simulation, 4s summary)
 - **How to generate the demo video:** Click **Export MP4 Video** in the top bar. The app renders all 900 frames on the canvas, uploads them in batches to the Express server, and encodes an H.264 MP4 with FFmpeg for in-browser playback and download.
 
