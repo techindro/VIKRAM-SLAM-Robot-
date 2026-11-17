@@ -1,0 +1,6 @@
+{
+  "name": "VIKRAM-SLAM Video Studio",
+  "description": "Autonomous Mobile Manipulator Vision-LiDAR SLAM and 6-DOF IK Grasping documentary video generator and 3D simulation studio.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
