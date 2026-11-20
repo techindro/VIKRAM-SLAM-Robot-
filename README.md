@@ -1,4 +1,4 @@
-# VIKRAM-SLAM-Robot-
+# VIKRAM-SLAM-Robotic Simulation-
 
 A browser-based 3D robotics simulator and video renderer for a mobile manipulator robot. It runs a five-stage mission in an 8.0 x 6.0 m factory room and lets you export the full 30-second run as a 1280x720 MP4 video.
 
